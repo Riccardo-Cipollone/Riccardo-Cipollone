@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riccardo-cipollone&label=Profile%20views&color=419bc8&style=flat" alt="riccardo-cipollone" /> </p>
 
+Hi, i'm Riccardo Cipollone, i am currently employed at **Gruppo Software Industriale**, and I really enjoy working on the Frontend of the products we help develop.
+
 - Currently trying to master **Javascript and Angular**
 
 - Reach me through this email: **riccardo.cipollone97@gmail.com**
 
-- ⚡ Fun fact **Used to be a League of Legends pro player.**
+- ⚡ Fun fact: **Used to be a League of Legends pro player.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
